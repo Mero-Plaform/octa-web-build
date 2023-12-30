@@ -1,1 +1,1 @@
-Current repository is a demo for: <a href="https://github.com/Mero-Plaform/octa-electron"> Octa </a>
+Current repository is a demo for: [Octa](https://merovinggen.github.io/octa-web-build/)
